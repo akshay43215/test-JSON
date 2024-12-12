@@ -1,0 +1,1262 @@
+{
+    "id": 1,
+    "title": "Previous Q&A One",
+    "result": [
+      {
+        "_Id": 1,
+        "question": "Who is known as 'First true epidemiologist' in history of medicine ?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "John Snow"
+          },
+          {
+            "key": "b",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "c",
+            "value": "James Lind"
+          },
+          {
+            "key": "d",
+            "value": "Joseph Lister"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 2,
+        "question": "Which of the following is called as the 'Cradle of Civilization' ?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Mesopotamia"
+          },
+          {
+            "key": "b",
+            "value": "Haddappa"
+          },
+          {
+            "key": "c",
+            "value": "Mohanjodaro"
+          },
+          {
+            "key": "d",
+            "value": "Sindhu Ghati"
+          }
+        ],
+        "ans_Key": "a"
+      },
+  
+      {
+        "_Id": 3,
+        "question": "Which of the following diseases is often called the 'father of public health'?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Hippocratus"
+          },
+          {
+            "key": "b",
+            "value": "Cholera"
+          },
+          {
+            "key": "c",
+            "value": "Chadwik"
+          },
+          {
+            "key": "d",
+            "value": "John Snow"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 4,
+        "question": "Samuel Hahneman is referred to as founding father of :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Ayurveda"
+          },
+          {
+            "key": "b",
+            "value": "Allopathy"
+          },
+          {
+            "key": "c",
+            "value": "Homeopathy"
+          },
+          {
+            "key": "d",
+            "value": "Yoga"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 5,
+        "question": "The concept of multifactorial causation of disease was first mooted by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Lemuel Shettuck"
+          },
+          {
+            "key": "b",
+            "value": "Edwin Chadwick"
+          },
+          {
+            "key": "c",
+            "value": "Petenkofer"
+          },
+          {
+            "key": "d",
+            "value": "John Snow"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 6,
+        "question": "The naval surgeon who advocated the intake of fresh fruits and vegetables for the prevention of scurvy :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "John Hunter"
+          },
+          {
+            "key": "b",
+            "value": "Johanna Peter Frank"
+          },
+          {
+            "key": "c",
+            "value": "Edwin Chadwick"
+          },
+          {
+            "key": "d",
+            "value": "James Lind"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 7,
+        "question": "The encyclopaedia, the 'Canon of Medicine' was compiled by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Susruta"
+          },
+          {
+            "key": "b",
+            "value": "Avicenna"
+          },
+          {
+            "key": "c",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "d",
+            "value": "Joseph Lister"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 8,
+        "question": "The Hindu God of medicine is:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Dhanvantari"
+          },
+          {
+            "key": "b",
+            "value": "Sursuta"
+          },
+          {
+            "key": "c",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "d",
+            "value": "Vaghbhatt"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 9,
+        "question": "Small pox vaccine was invented by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Ronald Ross"
+          },
+          {
+            "key": "b",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "c",
+            "value": "Edward Jenner"
+          },
+          {
+            "key": "d",
+            "value": "Robert Koch"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 10,
+        "question": "The Unani system of medicine is orginated from :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "China"
+          },
+          {
+            "key": "b",
+            "value": "Egypt"
+          },
+          {
+            "key": "c",
+            "value": " Greece"
+          },
+          {
+            "key": "d",
+            "value": "India"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 11,
+        "question": "The Italian Physician who enuciated the 'theory of contagion':",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Aristotle"
+          },
+          {
+            "key": "b",
+            "value": "Fracastorius"
+          },
+          {
+            "key": "c",
+            "value": "Paracelcus"
+          },
+          {
+            "key": "d",
+            "value": "Petenkoffer"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 12,
+        "question": "The profounder of 'The germ theory of disease' :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Joseph Lister"
+          },
+          {
+            "key": "b",
+            "value": " Pettenkoffer"
+          },
+          {
+            "key": "c",
+            "value": "Robert Koch"
+          },
+          {
+            "key": "d",
+            "value": "Louis Paster"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 13,
+        "question": "Father of Indian surgery is :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Atreya"
+          },
+          {
+            "key": "b",
+            "value": "Susrutha"
+          },
+          {
+            "key": "c",
+            "value": "Charaka"
+          },
+          {
+            "key": "d",
+            "value": "Vaghbhatt"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 14,
+        "question": ". Who is regarded as 'father of epidemiology'?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "John Snow"
+          },
+          {
+            "key": "b",
+            "value": "William Budd"
+          },
+          {
+            "key": "c",
+            "value": "Robert Koch"
+          },
+          {
+            "key": "d",
+            "value": " Aristotle"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 15,
+        "question": "Who discovered the transmission of malaria by Anopheline mosquitoes?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": " Ronald Ross"
+          },
+          {
+            "key": "b",
+            "value": " Dr. Laveran"
+          },
+          {
+            "key": "c",
+            "value": "Paul Muller"
+          },
+          {
+            "key": "d",
+            "value": "Walter Reed"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 16,
+        "question": "First country to socialize medicine completely:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Europe"
+          },
+          {
+            "key": "b",
+            "value": "Germany"
+          },
+          {
+            "key": "c",
+            "value": "Great Britain"
+          },
+          {
+            "key": "d",
+            "value": "Russia"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 17,
+        "question": "The birth place of public health is :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Egypt"
+          },
+          {
+            "key": "b",
+            "value": "China"
+          },
+          {
+            "key": "c",
+            "value": "Rome"
+          },
+          {
+            "key": "d",
+            "value": "Italy"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 18,
+        "question": "The definition of public health was first given by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Lord Dawson"
+          },
+          {
+            "key": "b",
+            "value": "CEA Winslow"
+          },
+          {
+            "key": "c",
+            "value": "Alfred Grotjahn"
+          },
+          {
+            "key": "d",
+            "value": "John Ryle"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 19,
+        "question": "All of the following are true about socialized medicine except:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Ensure social equity - universal coverage"
+          },
+          {
+            "key": "b",
+            "value": "Reduces competition among practitioners"
+          },
+          {
+            "key": "c",
+            "value": "Increase utilization of health facilities"
+          },
+          {
+            "key": "d",
+            "value": "Use state funds for free medicine"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 20,
+        "question": "The global strategy for Health For All was formulated and adopted by WHO in:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "1978"
+          },
+          {
+            "key": "b",
+            "value": "1981"
+          },
+          {
+            "key": "c",
+            "value": "1984"
+          },
+          {
+            "key": "d",
+            "value": "1987"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 21,
+        "question": "The first codification medical practice is called:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Code of Hammurabi"
+          },
+          {
+            "key": "b",
+            "value": "Declaration of Helsinki"
+          },
+          {
+            "key": "c",
+            "value": "Code of Ur-Nammu"
+          },
+          {
+            "key": "d",
+            "value": "Laws of Eshnunna"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 22,
+        "question": "The study of man as a social being in relation to his total environment in",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Social medicine"
+          },
+          {
+            "key": "b",
+            "value": "Socialized medicine"
+          },
+          {
+            "key": "c",
+            "value": " Sociology"
+          },
+          {
+            "key": "d",
+            "value": "Socialization of medicine"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 23,
+        "question": "The concept of a health centre was first mooted by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "CEA Winslow"
+          },
+          {
+            "key": "b",
+            "value": " Alfred Grotjahn"
+          },
+          {
+            "key": "c",
+            "value": "Lord Dawson"
+          },
+          {
+            "key": "d",
+            "value": "League of Nations Health Organization"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 24,
+        "question": "The first level of health care available to all people in the health system is :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Primary health case"
+          },
+          {
+            "key": "b",
+            "value": "Secondary health care"
+          },
+          {
+            "key": "c",
+            "value": "Teritiary health care"
+          },
+          {
+            "key": "d",
+            "value": "Comprehensive health care"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 25,
+        "question": "HFA by 2000 AD means a level of health which enables a person to:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Be devoid of disease in future"
+          },
+          {
+            "key": "b",
+            "value": "Lead socially and economically productive life"
+          },
+          {
+            "key": "c",
+            "value": "Healthy and happy life"
+          },
+          {
+            "key": "d",
+            "value": "Have no death and suffering"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 26,
+        "question": "The first vaccine developed was :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Typhoid"
+          },
+          {
+            "key": "b",
+            "value": "Small-pox"
+          },
+          {
+            "key": "c",
+            "value": "Rabies"
+          },
+          {
+            "key": "d",
+            "value": "Have no death and suffering"
+          },
+          {
+            "key": "e",
+            "value": "Polio"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 27,
+        "question": "World Health Organisation has the goal of health for all by the year :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "1990"
+          },
+          {
+            "key": "b",
+            "value": "2000"
+          },
+          {
+            "key": "c",
+            "value": "2010"
+          },
+          {
+            "key": "d",
+            "value": "2025"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 28,
+        "question": "Father of medicine is:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "b",
+            "value": "Aesculapius"
+          },
+          {
+            "key": "c",
+            "value": "Susrutha"
+          },
+          {
+            "key": "d",
+            "value": "Thomas Syndenham"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 29,
+        "question": "James Lind is related to the disease:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Small pox"
+          },
+          {
+            "key": "b",
+            "value": "Scurvy"
+          },
+          {
+            "key": "c",
+            "value": "Scabies"
+          },
+          {
+            "key": "d",
+            "value": "Scoliosis"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 30,
+        "question": "The concept of 'bare foot doctors' originated from:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Indian medicine"
+          },
+          {
+            "key": "b",
+            "value": "Chinese medicine"
+          },
+          {
+            "key": "c",
+            "value": "Greek medicine"
+          },
+          {
+            "key": "d",
+            "value": "Egyptian medicine"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 31,
+        "question": "Malarial parasite was discovered by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Robert Koch"
+          },
+          {
+            "key": "b",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "c",
+            "value": "C.A Laveran"
+          },
+          {
+            "key": "d",
+            "value": "Ronald Ross"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 32,
+        "question": "Theory of web of causation was given by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "McMohan and Pugh"
+          },
+          {
+            "key": "b",
+            "value": "Pettenkofer"
+          },
+          {
+            "key": "c",
+            "value": "John Snow"
+          },
+          {
+            "key": "d",
+            "value": "Louis Pasteur"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 33,
+        "question": "Which medicine claims to be the World's first organized body of medical",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Indian"
+          },
+          {
+            "key": "b",
+            "value": "Chinese"
+          },
+          {
+            "key": "c",
+            "value": "Egyptian"
+          },
+          {
+            "key": "d",
+            "value": "Mesopotamian"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 34,
+        "question": "The lawyer who designed the Public Health Act 1848 was :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "John Snow"
+          },
+          {
+            "key": "b",
+            "value": "Edwin Chadwick"
+          },
+          {
+            "key": "c",
+            "value": "Joseph Lister"
+          },
+          {
+            "key": "d",
+            "value": "Willian Farr"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 35,
+        "question": "The term social medicine was introduced by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Jules Guerin"
+          },
+          {
+            "key": "b",
+            "value": "Crew"
+          },
+          {
+            "key": "c",
+            "value": "John Ryle"
+          },
+          {
+            "key": "d",
+            "value": "Alfred Grotjahn"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 36,
+        "question": "Who introduced the concept of relationship of enviornment and human health?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "b",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "c",
+            "value": "David Moley"
+          },
+          {
+            "key": "d",
+            "value": "Ambroise Pare"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 37,
+        "question": "All of the following are true about socialised medicine except :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Ensures social equity - universal coverage"
+          },
+          {
+            "key": "b",
+            "value": "Reduces competition among practitioners"
+          },
+          {
+            "key": "c",
+            "value": "Use state funds for free medicine"
+          },
+          {
+            "key": "d",
+            "value": "Increase utilization of health facilities"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 38,
+        "question": "WHO declared small pox has been eradicated in :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "May 1978"
+          },
+          {
+            "key": "b",
+            "value": "September 1984"
+          },
+          {
+            "key": "c",
+            "value": "May 1980"
+          },
+          {
+            "key": "d",
+            "value": "July 1987"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 39,
+        "question": "Quarantine of earlier time has now been replaced by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Isolation"
+          },
+          {
+            "key": "b",
+            "value": "Ring immunization"
+          },
+          {
+            "key": "c",
+            "value": "Active surveillance"
+          },
+          {
+            "key": "d",
+            "value": "None of the above"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 40,
+        "question": "The earliest Public Health Law was promulgated in :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Germany"
+          },
+          {
+            "key": "b",
+            "value": "Russia"
+          },
+          {
+            "key": "c",
+            "value": "China"
+          },
+          {
+            "key": "d",
+            "value": "England"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 41,
+        "question": "Priciple for chinese medicine:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Yang & Yin"
+          },
+          {
+            "key": "b",
+            "value": "Hygeia & Panacea"
+          },
+          {
+            "key": "c",
+            "value": "Both"
+          },
+          {
+            "key": "d",
+            "value": "None"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 42,
+        "question": "Early Pioneers of immunization was :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Chinese"
+          },
+          {
+            "key": "b",
+            "value": "Arabs"
+          },
+          {
+            "key": "c",
+            "value": "Roman"
+          },
+          {
+            "key": "d",
+            "value": "Greek"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 43,
+        "question": "Father of surgery :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Hippocrates"
+          },
+          {
+            "key": "b",
+            "value": "Ambroise Pare"
+          },
+          {
+            "key": "c",
+            "value": "Sushruta"
+          },
+          {
+            "key": "d",
+            "value": "Aristotle"
+          }
+        ],
+        "ans_Key": "b"
+      },
+      {
+        "_Id": 44,
+        "question": "First bacterian - Anthrax as a cause of disease was shown by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Rober Koch"
+          },
+          {
+            "key": "b",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "c",
+            "value": "Ronald Ross"
+          },
+          {
+            "key": "d",
+            "value": "Edward Jenner"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 45,
+        "question": "Who found the link between cholera and contaminated water :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "b",
+            "value": "Ronald Ross"
+          },
+          {
+            "key": "c",
+            "value": "Edward Jenner"
+          },
+          {
+            "key": "d",
+            "value": "John Snow"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 46,
+        "question": "Spot map was devised by :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Louis Pasteur"
+          },
+          {
+            "key": "b",
+            "value": "Ronald Ross"
+          },
+          {
+            "key": "c",
+            "value": "David Moley"
+          },
+          {
+            "key": "d",
+            "value": "John Snow"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 47,
+        "question": "Who realated social factors to etiology of disease so called 'Social-Pathology'?",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Jules Guerin"
+          },
+          {
+            "key": "b",
+            "value": "Crew"
+          },
+          {
+            "key": "c",
+            "value": "John Ryle"
+          },
+          {
+            "key": "d",
+            "value": "Alfred Grotjahn (Social pathology)"
+          }
+        ],
+        "ans_Key": "d"
+      },
+      {
+        "_Id": 48,
+        "question": " Provision of free medical care to the people at government expense is :",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "tate medicine"
+          },
+          {
+            "key": "b",
+            "value": "Social medicine"
+          },
+          {
+            "key": "c",
+            "value": "Social security"
+          },
+          {
+            "key": "d",
+            "value": "Social Indusrance program"
+          }
+        ],
+        "ans_Key": "a"
+      },
+      {
+        "_Id": 49,
+        "question": "Microscope was invented by:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Ronald Ross"
+          },
+          {
+            "key": "b",
+            "value": "Robert Koch"
+          },
+          {
+            "key": "c",
+            "value": "Leeuwenhoek"
+          },
+          {
+            "key": "d",
+            "value": "louis Pasteur"
+          }
+        ],
+        "ans_Key": "c"
+      },
+      {
+        "_Id": 50,
+        "question": "The pioneer in concept of specific protection by vaccine was:",
+        "type": "multiple",
+        "difficulty": "medium",
+        "opt_list": [
+          {
+            "key": "a",
+            "value": "Chinese"
+          },
+          {
+            "key": "b",
+            "value": "Robert Koch"
+          },
+          {
+            "key": "c",
+            "value": "Ambroise Pare"
+          },
+          {
+            "key": "d",
+            "value": "Louis Pasteur"
+          }
+        ],
+        "ans_Key": "a"
+      }
+    ]
+  }
+  
